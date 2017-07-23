@@ -25,17 +25,17 @@ li a:hover{
 	height: 200px;
 	width: 200px;
 	display: inline-block;
+	margin: 20px;
 
+}
+
+#listproduct{
+	width: 100%;
 }
 input[type="text"]{
 	background: none;
 }
-.listproduct{
-	height: 200px;
-	width: 200px;
-	display: inline-block;
-	margin: 20px;
-}
+
 th{
 	text-align: left;
 }
